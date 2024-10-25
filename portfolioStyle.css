@@ -229,16 +229,16 @@ header div:hover {
 .projects .projectsInfo .projectdiv{
     min-width: 450px;
     height: 470px;
-    margin: 10px;
+    /* margin: 10px; */
     /* background-color: red; */
     border-radius: 5px;
     position: relative;
-    margin-right: 30px;
+    margin-right: 10px;
     /* gap: 30px; */
 }
 .projectdiv .projectTitle{
-    margin: 10px;
-    width: 450px;
+    /* margin: 10px; */
+    width: 430px;
     height: 50px;
     background-color: white;
     margin-bottom: 10px;
@@ -248,8 +248,8 @@ header div:hover {
     align-items: center;
 }
 .projectdiv .projectDescription{
-    margin: 10px;
-    width: 450px;
+    /* margin: 10px; */
+    width: 430px;
     height: 370px;
     background-color: chocolate;
     border-radius: 5px;
